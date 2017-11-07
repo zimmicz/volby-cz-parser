@@ -1,4 +1,4 @@
-# volby.cz 2017 parser
+# volby.cz parser
 
 ## How to use
 
