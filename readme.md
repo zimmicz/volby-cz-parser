@@ -3,7 +3,6 @@
 ## How to use
 
 * set your database credentials in `etc/pgsql.env`
-* run `psql -f structure.sql` inside `lib/psql`
 * set variables in `etc/settings.env`
 * run scripts from `bin` folder
   * `extract_enums.sh` downloads list of administrative units
@@ -26,4 +25,4 @@
 
 * Bash: GNU Parallel, wget, dbview, gnumeric
 * Python
-* PostgreSQL + PostGIS
+* PostgreSQL
